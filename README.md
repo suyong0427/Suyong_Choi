@@ -38,7 +38,8 @@ Global Career Accelerator
 - Korean (Proficient)
 
 ## Projects
-- [Data Analysis Report : London Transportation Jouney Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
+- [Data Analysis Report : London Transportation Jouney Survey](https://github.com/suyong0427/suyong_portfolio/blob/main/(SQL)%20-%20Data%20Analysis%20Report%20_%20London%20Transportation%20Journey%20Survey.pdf)
+
 
 
 
