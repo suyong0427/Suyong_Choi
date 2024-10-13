@@ -4,7 +4,7 @@
 - B.S, Data Science | Arizona State University (_Spring 2025_)
 
 ## Experience
-**Global Career Accelerator 
+Global Career Accelerator 
 - Conducted data analysis using SQL queries to extract and manipulate data
 - Analyzed, visualized, and reported data findings using Jupyter Notebook
 - Communicated results of data analysis by creating visualizations in Tableau
@@ -38,6 +38,7 @@
 - Korean (Proficient)
 
 ## Projects
+- [Data Analysis Report : London Transportation Jouney Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
 
 
 
