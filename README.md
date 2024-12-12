@@ -40,6 +40,7 @@ Global Career Accelerator
 ## Projects
 - [Data Analysis Report : London Transportation Jouney Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
 - [Data Analysis Report : Intel Data Center Project](https://docs.google.com/document/d/1xilUIFkk0TIiMVsXPSd3uK5b9i9Owxblvnw1x7ASz-o/edit?usp=sharing)
+- [Data Analysis Report : NBA Statistics Report](https://docs.google.com/document/d/1ASOAKnZXjse1MQf1JIaw16kCKyPxM7k0Rzhpv9YdLj8/edit?usp=sharing)
 
 
 
