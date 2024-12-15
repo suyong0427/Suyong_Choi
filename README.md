@@ -42,6 +42,7 @@ Global Career Accelerator
 - [Data Analysis Report : (SQL) Intel Data Center Project](https://docs.google.com/document/d/1xilUIFkk0TIiMVsXPSd3uK5b9i9Owxblvnw1x7ASz-o/edit?usp=sharing)
 - [Data Analysis Report : (SQL) NBA Statistics Report](https://docs.google.com/document/d/1ASOAKnZXjse1MQf1JIaw16kCKyPxM7k0Rzhpv9YdLj8/edit?usp=sharing)
 - [Data Analysis Report : (Python) NASA Planetary Mystery](https://suyong0427.github.io/Suyong_Choi/NASA_Planetary_Mystery_Report.html)
+- [Data Analysis Report : (Python) Grammys Project](https://suyong0427.github.io/Suyong_Choi/Grammys_Report.html)
 
 
 
