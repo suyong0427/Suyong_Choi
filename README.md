@@ -1,7 +1,7 @@
 # Data Science major student
 
 ## Education
-- B.S, Data Science | Arizona State University (_Spring 2025_)
+- B.S, Data Science | Arizona State University (_Summer 2025_)
 
 ## Experience
 Global Career Accelerator 
