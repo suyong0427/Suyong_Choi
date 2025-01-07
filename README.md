@@ -44,7 +44,7 @@ ASU KSA Executive
 
 ## Projects
 - [Data Analysis Report : (SQL) London Transportation Journey Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
-  Analyzed passenger travel patterns on the London Underground using Transport for London's RODS dataset. Conducted data cleaning, aggregation, and transformation to uncover key insights such as peak travel times, 
+  - Analyzed passenger travel patterns on the London Underground using Transport for London's RODS dataset. Conducted data cleaning, aggregation, and transformation to uncover key insights such as peak travel times, 
   primary journey purposes, and zone-specific behavior. Developed actionable recommendations for optimizing transport planning and addressing commuter volume during peak hours.
 - [Data Analysis Report : (SQL) Intel Data Center Location Analysis](https://docs.google.com/document/d/1xilUIFkk0TIiMVsXPSd3uK5b9i9Owxblvnw1x7ASz-o/edit?usp=sharing)
   Conducted SQL-based analysis of energy data to support Intel's data center location decision. Evaluated regional energy surpluses and renewable energy usage, identifying the Northwest as the most sustainable 
