@@ -54,9 +54,9 @@ ASU KSA Executive
   - Analyzed website traffic and user engagement patterns during the Grammy Awards period. Investigated key metrics such as visitor count, session duration, and bounce rates to identify trends influenced by marketing campaigns. Delivered actionable insights to optimize user retention and engagement strategies.
 
 ## Licenses & Certification
-- [Python Specialist | The Global Career Accelerator | Dec 2024](https://www.credential.net/15b0f4be-5e06-4d2d-9ad5-524fd3835943#acc.7rPiJXpE)
-- [SQL Specialist | The Global Career Accelerator | Dec 2024](https://www.credential.net/c64ac3b6-e6b9-42ba-b980-bea34468231a#acc.QmANHpMK)
-- [Intercultural Skills | The Global Career Accelerator | Dec 2024](https://www.credential.net/00cee20e-5463-4a6e-ad85-2bcf58ecd1c1#acc.Lnzu3gfB)
+- [Python Specialist](https://www.credential.net/15b0f4be-5e06-4d2d-9ad5-524fd3835943#acc.7rPiJXpE)
+- [SQL Specialist](https://www.credential.net/c64ac3b6-e6b9-42ba-b980-bea34468231a#acc.QmANHpMK)
+- [Intercultural Skills](https://www.credential.net/00cee20e-5463-4a6e-ad85-2bcf58ecd1c1#acc.Lnzu3gfB)
 - [Intel Project - Data Analysis for Sustainability](https://www.credential.net/c8319b91-c91a-4f03-9204-8135bb426aa2#acc.SPuXO1oG)
 - [The Grammys Project - Website Audience Analysis](https://www.credential.net/c6c0229b-0842-43c0-8b4d-6f4cef3fdc04#acc.5BWKrYIH)
 
