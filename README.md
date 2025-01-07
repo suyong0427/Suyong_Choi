@@ -12,6 +12,11 @@ Global Career Accelerator
 - Gained insights into global business strategy by using data techniques such as exploratory data analysis, summary statistics, and data visualization
 - Collaborated with a global team to complete analysis tasks
 
+ASU KSA Executive
+- Planned activities and events for more than 40 Korean students at Arizona State University with 6 other students to get students closer.
+-	Calculated costs for activities and events.
+
+
 ## Tools
 - My SQL Pad
 - Jupyter Notebook
@@ -38,13 +43,21 @@ Global Career Accelerator
 - Korean (Proficient)
 
 ## Projects
-- [Data Analysis Report : (SQL) London Transportation Jouney Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
-- [Data Analysis Report : (SQL) Intel Data Center Project](https://docs.google.com/document/d/1xilUIFkk0TIiMVsXPSd3uK5b9i9Owxblvnw1x7ASz-o/edit?usp=sharing)
-- [Data Analysis Report : (SQL) NBA Statistics Report](https://docs.google.com/document/d/1ASOAKnZXjse1MQf1JIaw16kCKyPxM7k0Rzhpv9YdLj8/edit?usp=sharing)
+- [Data Analysis Report : (SQL) London Transportation Journey Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
+  Analyzed passenger travel patterns on the London Underground using Transport for London's RODS dataset. Conducted data cleaning, aggregation, and transformation to uncover key insights such as peak travel times, 
+  primary journey purposes, and zone-specific behavior. Developed actionable recommendations for optimizing transport planning and addressing commuter volume during peak hours.
+- [Data Analysis Report : (SQL) Intel Data Center Location Analysis](https://docs.google.com/document/d/1xilUIFkk0TIiMVsXPSd3uK5b9i9Owxblvnw1x7ASz-o/edit?usp=sharing)
+  Conducted SQL-based analysis of energy data to support Intel's data center location decision. Evaluated regional energy surpluses and renewable energy usage, identifying the Northwest as the most sustainable 
+  option and the Mid-Atlantic for energy surplus. Provided actionable insights on renewable energy trends and solar plant efficiency to align with Intel’s sustainability goals.
 - [Data Analysis Report : (Python) NASA Planetary Mystery](https://suyong0427.github.io/Suyong_Choi/NASA_Planetary_Mystery_Report.html)
+  Analyzed planetary data from NASA to uncover key mysteries related to celestial phenomena. Conducted data exploration and developed insights into orbital patterns, planetary compositions, and unique features of    exoplanets. The project utilized structured datasets and involved hypothesis-driven analysis to contribute to ongoing space research.
 - [Data Analysis Report : (Python) Grammys Project](https://suyong0427.github.io/Suyong_Choi/Grammys_Report.html)
+  Analyzed website traffic and user engagement patterns during the Grammy Awards period. Investigated key metrics such as visitor count, session duration, and bounce rates to identify trends influenced by    marketing campaigns. Delivered actionable insights to optimize user retention and engagement strategies.
 
-
+## Licenses & Certification
+- Python Specialist | The Global Career Accelerator | Dec 2024
+- SQL Specialist | The Global Career Accelerator | Dec 2024
+- Intercultural Skills | The Global Career Accelerator | Dec 2024
 
 
 
