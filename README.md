@@ -1,7 +1,7 @@
 # Data Science major student
 
 ## Education
-- B.S, Data Science | Arizona State University (_Summer 2025_)
+- B.S. Data Science | Arizona State University (_Summer 2025_)
 
 ## Experience
 Global Career Accelerator 
@@ -13,7 +13,7 @@ Global Career Accelerator
 - Collaborated with a global team to complete analysis tasks
 
 ASU KSA Executive
-- Planned activities and events for more than 40 Korean students at Arizona State University with 6 other students to get students closer.
+- Planned activities and events for more than 40 Korean students at Arizona State University with 6 other students to foster closer relationship among students.
 -	Calculated costs for activities and events.
 
 
@@ -39,8 +39,8 @@ ASU KSA Executive
 - C++
 
 ## Language
-- English (Proficient)
-- Korean (Proficient)
+- English (Fluent)
+- Korean (Fluent)
 
 ## Projects
 - [Data Analysis Report : (SQL) London Transportation Journey Survey](https://docs.google.com/document/d/1cl8W0T8fHf1inKsaieJbp362S4nc_in-zNJyjFkIo78/edit?usp=sharing)
